@@ -10,4 +10,4 @@ eng Osama Elzero Problem Solving Level One & Level Two
 Important Questions & Problems 
 
 ## General Problems 
-General Problems, Specific Cases & Buit in Functions
+General Problems, Specific Cases & Built in Functions
