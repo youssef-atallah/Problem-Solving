@@ -1,7 +1,7 @@
 /*
  Problem link : https://codeforces.com/contest/231/problem/A
 
-   11- A. Anton and Danik
+   14 Team  CF231-D2-A
     status link : https://codeforces.com/contest/231/submission/223721470
 */
 #include <iostream>
