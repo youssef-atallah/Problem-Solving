@@ -5,7 +5,7 @@
 	 and their sum is 15. Every other number occurs
 
 
-	 Eng. Osama's solution, with the built-in function count():
+Eng. Osama's solution, with the built-in function count():
 	int repeats(vector<int> v) {
 	int result = 0;
 
