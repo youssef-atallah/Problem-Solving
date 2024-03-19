@@ -3,6 +3,20 @@
 
 	For example, repeats([4,5,7,5,4,8]) = 15 because only the numbers 7 and 8 occur once,
 	 and their sum is 15. Every other number occurs
+
+
+	 Eng. Osama's solution, with the built-in function count():
+	int repeats(vector<int> v) {
+	int result = 0;
+
+	for(int num : v)
+	{
+		if (count(v.begin(), v.end(), num) == 1)
+			result += num;
+	}
+	return result;
+}
+
 */
 #include <iostream>
 #include <vector>
@@ -45,3 +59,5 @@ int main() {
 
 	return 0;
 }
+
+
