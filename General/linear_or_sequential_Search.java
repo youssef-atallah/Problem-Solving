@@ -1,6 +1,7 @@
-/* Linear Search
- linear or sequential search
-
+/* Linear Search    technique
+    linear or sequential search
+    
+    There's no need for it to be sorted from smallest to largest or vice versa.
  */
 import java.util.Scanner ;
 
